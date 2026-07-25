@@ -1,7 +1,8 @@
 {
-  "disabled": false
+  "disabled": true
+    "message": "App is offline for maintenance"
+
 }
 
 
-true = colse 
-false = opne 
+
