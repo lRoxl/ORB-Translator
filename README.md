@@ -1,7 +1,8 @@
-
 # ORB — Translate Anything on Your Screen
 
 **See text in your language instantly.** Point at any screen text — whether it's a game, website, video, or document — and read the translation right there, in real time.
+
+<img src="./images/intro.gif" width="500" alt="ORB intro animation">
 
 ## What it does
 
@@ -71,6 +72,8 @@ Get `ORB-v1.0.2.zip` from [Releases](https://github.com/lRoxl/ORB/releases)
 - Press **F6** to open the translate page
 - Paste any text or type it manually
 
+<img src="./images/dashboard.png" width="700" alt="ORB dashboard home page">
+
 ### Settings (Optional)
 
 **🎯 Engine** — Where translations come from  
@@ -99,6 +102,11 @@ Get `ORB-v1.0.2.zip` from [Releases](https://github.com/lRoxl/ORB/releases)
 **🎬 Videos** — Understand dialogue even if subtitles aren't available  
 **📄 Documents** — Translate PDFs, Word docs, web articles while you read  
 
+**Real-world example: Gaming**
+<img src="./images/game-example.png" width="700" alt="ORB translating game subtitles in real time">
+
+See Japanese game text (right side) automatically translated while you play.
+
 **🌍 Supports:** Arabic · English · Chinese · Japanese · Korean · Spanish · French · German · Portuguese · Turkish · Russian · Persian · Urdu
 
 **⚡ Speed**  
@@ -113,7 +121,14 @@ Get `ORB-v1.0.2.zip` from [Releases](https://github.com/lRoxl/ORB/releases)
 
 ---
 
-## Quick Help
+## Screenshots
+
+All three images above show:
+1. **Intro animation** — smooth ORB branding
+2. **Dashboard** — home page with all 4 hotkeys visible
+3. **Game translation** — Japanese subtitles translated in real time (right panel)
+
+The live translations never interrupt gameplay.
 
 **"Hotkeys don't work"**  
 → Try pressing them again (sometimes needs 1 second)  
@@ -168,4 +183,4 @@ Get `ORB-v1.0.2.zip` from [Releases](https://github.com/lRoxl/ORB/releases)
 
 Free, open-source, no tracking. Just useful software.
 
-[GitHub](https://github.com/lRoxl/ORB) · [Donate](https://ko-fi.com) ·
+[GitHub](https://github.com/lRoxl/ORB) · [Donate](https://ko-fi.com) · 
