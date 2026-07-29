@@ -1,5 +1,4 @@
 
-[README.md](https://github.com/user-attachments/files/30504046/README.md)
 # ORB — Translate Anything on Your Screen
 
 **See text in your language instantly.** Point at any screen text — whether it's a game, website, video, or document — and read the translation right there, in real time.
