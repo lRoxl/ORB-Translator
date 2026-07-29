@@ -1,4 +1,4 @@
-<img width="560" height="350" alt="orb-intro-50fps" src="https://github.com/user-attachments/assets/2807ee9e-5aae-4480-b05c-c4554442d380" />
+
 [README.md](https://github.com/user-attachments/files/30504046/README.md)
 # ORB — Translate Anything on Your Screen
 
