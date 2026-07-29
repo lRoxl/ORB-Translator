@@ -183,4 +183,4 @@ The live translations never interrupt gameplay.
 
 Free, open-source, no tracking. Just useful software.
 
-[GitHub](https://github.com/lRoxl/ORB) · [Donate](https://ko-fi.com) · 
+[GitHub](https://github.com/lRoxl/ORB) · [Donate]([https://ko-fi.com](https://ko-fi.com/lRoxl)) · 
