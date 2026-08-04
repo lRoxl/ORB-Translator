@@ -20,7 +20,7 @@
 ## Get Started (2 minutes)
 
 **1. Download**  
-Get `ORB-v1.0.2.zip` from [Releases](https://github.com/lRoxl/ORB/releases)
+Get `ORB.zip` from [Releases](https://github.com/lRoxl/ORB/releases)
 
 **2. Extract & Run**  
 - Unzip to any folder (Desktop, Documents, anywhere)
